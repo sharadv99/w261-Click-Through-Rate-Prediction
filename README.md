@@ -1,4 +1,4 @@
-# Click-Through-Rate-Prediction
+# Click-Through-Rate Prediction
 
 --Data Science project at UC Berkeley--  
 --Team: [Sharad Varadarajan](https://www.linkedin.com/in/sharadv/), [Cameron Kennedy](https://www.linkedin.com/in/cameron-kennedy-profile/), [Julia Buffinton](https://www.linkedin.com/in/juliabuffinton/), [Ram Iyer](https://www.linkedin.com/in/ram-iyer-ca/)-- 
